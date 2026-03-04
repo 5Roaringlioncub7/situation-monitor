@@ -1,0 +1,69 @@
+{
+  "header": {
+    "title": "形势监控器",
+    "last_updated": "最后更新: {time}",
+    "never_refreshed": "从未刷新",
+    "refreshing": "刷新中...",
+    "settings": "设置"
+  },
+  "settings": {
+    "title": "设置",
+    "enabled_panels": "已启用的面板",
+    "enabled_panels_desc": "开启或关闭面板以自定义您的仪表盘",
+    "dashboard": "仪表盘",
+    "reconfigure": "重新配置仪表盘",
+    "reconfigure_desc": "为您的面板选择预设配置",
+    "reset": "重置所有设置",
+    "language": "语言"
+  },
+  "threat": {
+    "monitoring": "监控中",
+    "critical": "危急",
+    "elevated": "提升",
+    "no_recent_news": "暂无近期新闻"
+  },
+  "panels": {
+    "map": "全球地图",
+    "politics": "世界 / 地缘政治",
+    "tech": "技术 / 人工智能",
+    "finance": "金融",
+    "gov": "政府 / 政策",
+    "politics": "政治",
+    "tech": "科技",
+    "ai": "人工智能",
+    "intel": "情报反馈",
+    "heatmap": "行业热力图",
+    "markets": "市场",
+    "monitors": "我的监控",
+    "commodities": "大宗商品 / VIX",
+    "crypto": "加密货币",
+    "polymarket": "预测市场 (Polymarket)",
+    "whales": "大户追踪",
+    "mainchar": "主角动态",
+    "printer": "印钞机",
+    "contracts": "政府合同",
+    "ai": "AI 军备竞赛",
+    "layoffs": "裁员追踪",
+    "venezuela": "委内瑞拉观察",
+    "greenland": "格陵兰观察",
+    "iran": "伊朗危机",
+    "leaders": "世界领导人",
+    "intel": "情报反馈",
+    "correlation": "相关性引擎",
+    "narrative": "叙事追踪",
+    "fed": "美联储"
+  },
+  "situation": {
+    "venezuela_subtitle": "人道主义危机监控",
+    "greenland_subtitle": "北极地缘政治监控",
+    "iran_subtitle": "革命抗议、政权不稳定和核计划"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "close": "关闭",
+    "no_market_data": "暂无市场数据",
+    "no_crypto_data": "暂无加密货币数据",
+    "no_news": "暂无相关新闻"
+  }
+}

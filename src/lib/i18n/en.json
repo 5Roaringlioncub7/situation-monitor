@@ -1,0 +1,69 @@
+{
+  "header": {
+    "title": "SITUATION MONITOR",
+    "last_updated": "Last updated: {time}",
+    "never_refreshed": "Never refreshed",
+    "refreshing": "Refreshing...",
+    "settings": "Settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "enabled_panels": "Enabled Panels",
+    "enabled_panels_desc": "Toggle panels on/off to customize your dashboard",
+    "dashboard": "Dashboard",
+    "reconfigure": "Reconfigure Dashboard",
+    "reconfigure_desc": "Choose a preset profile for your panels",
+    "reset": "Reset All Settings",
+    "language": "Language"
+  },
+  "threat": {
+    "monitoring": "MONITORING",
+    "critical": "CRITICAL",
+    "elevated": "ELEVATED",
+    "no_recent_news": "No recent news"
+  },
+  "panels": {
+    "map": "Global Map",
+    "politics": "World / Geopolitical",
+    "tech": "Technology / AI",
+    "finance": "Financial",
+    "gov": "Government / Policy",
+    "politics": "Politics",
+    "tech": "Tech",
+    "ai": "AI",
+    "intel": "Intel Feed",
+    "heatmap": "Sector Heatmap",
+    "markets": "Markets",
+    "monitors": "My Monitors",
+    "commodities": "Commodities / VIX",
+    "crypto": "Crypto",
+    "polymarket": "Polymarket",
+    "whales": "Whale Watch",
+    "mainchar": "Main Character",
+    "printer": "Money Printer",
+    "contracts": "Gov Contracts",
+    "ai": "AI Arms Race",
+    "layoffs": "Layoffs Tracker",
+    "venezuela": "Venezuela Watch",
+    "greenland": "Greenland Watch",
+    "iran": "Iran Crisis",
+    "leaders": "World Leaders",
+    "intel": "Intel Feed",
+    "correlation": "Correlation Engine",
+    "narrative": "Narrative Tracker",
+    "fed": "Federal Reserve"
+  },
+  "situation": {
+    "venezuela_subtitle": "Humanitarian crisis monitoring",
+    "greenland_subtitle": "Arctic geopolitics monitoring",
+    "iran_subtitle": "Revolution protests, regime instability & nuclear program"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "close": "Close",
+    "no_market_data": "No market data available",
+    "no_crypto_data": "No crypto data available",
+    "no_news": "No news available"
+  }
+}
